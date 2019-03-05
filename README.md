@@ -44,23 +44,21 @@ A critical mass of decentralized masternodes and the acceptance of the Valideum 
 ```bash
 Stages 1-2: PIVX Fork (Proof of Stake)
 
-Stage 3: NEM Catapult Fork (Proof of Stake)
+MAX Supply: 15M TF
 
-MAX Supply: 100B TF
+Collateral: 1000 TF
 
-Collateral: 1M TF
-
-Blocktime: 120 Sec
+Blocktime: 90 Sec
 
 Maturity: 60 Blocks
 
-Staking Age: 3 Hours
+Staking Age: 2 Hours
 
-Block Reward: 15220.70 TF
+Block Reward: 13.9 TF
 
-Masternodes: 12176.56 TF (80%)
+Masternodes: 8.34 (60%)
 
-Stakers: 1522.07 TF (10%)
+Stakers: 5.56 TF (10%)
 
-Development Foundation: 1522.07 TF (10%)
+
 ```
