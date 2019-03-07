@@ -17,5 +17,5 @@ Block Reward: 13.9 TF
 
 Masternodes: 8.34 (60%)
 
-Stakers: 5.56 TF (40%)
+Proof-of-Stake: 5.56 TF (40%)
 
