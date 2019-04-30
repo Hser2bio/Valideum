@@ -1,7 +1,7 @@
 ## Valideum Coin Specifications:
 
 ```bash
-Stages 1-2: PIVX Fork (Proof of Stake)
+Stages 1-2: Twins Fork (Proof of Stake)
 
 MAX Supply: 15M TF
 
