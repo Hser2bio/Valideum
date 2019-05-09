@@ -4496,7 +4496,7 @@ bool AcceptBlock(CBlock& block, CValidationState& state, CBlockIndex** ppindex, 
          }
  
          // if this is on a fork
-         if (!chainActive.Contains(pindexPrev)) {
+         if (!chainActive.Contains(pindexPrev) && pindexPrev != NULL) {
              // start at the block we're adding on to
              CBlockIndex *last = pindexPrev;
  
