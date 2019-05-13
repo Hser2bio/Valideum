@@ -71,7 +71,7 @@ set<pair<COutPoint, unsigned int> > setStakeSeen;
 +// attacks because then we can check that either the staking input is available in the current
 +// active chain, or the staking input was spent in the past 100 blocks after the height
 +// of the incoming block.
-+map<COutPoint, int> mapStakeSpent;
+map<COutPoint, int> mapStakeSpent;
 map<unsigned int, unsigned int> mapHashedBlocks;
 CChain chainActive;
 CBlockIndex* pindexBestHeader = NULL;
